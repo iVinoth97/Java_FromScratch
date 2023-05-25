@@ -1,6 +1,6 @@
 //Class & Object
 
-package javaOOPS_beginner;
+package java_Beginner;
 
 public class ClassnObj {
 		
